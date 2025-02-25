@@ -16,6 +16,8 @@ Go to the config file, and change the option `n` to the number of screenshots yo
 
 ## Screenshots
 
+[simple_screenshot_sequence.webm](https://github.com/user-attachments/assets/02600e18-ee68-45a5-bea5-a987248ae825)
+
 ## Changelog
 
 ### v1.0
