@@ -1,6 +1,6 @@
 # simple_screenshot_sequence.lua
 
-The script is based on [Arieleg's script](https://github.com/Arieleg/mpv-takeSsSequence) but rewritten in Lua with a config file and the key binding changed to `ctrl + shift + s`. This script takes a sequence of equispaced screenshots, where you can set the number of screenshots and the video fragment to which it will be applied (even 100% of the video).
+This script takes a sequence of equispaced screenshots, where you can set the number of screenshots and the video fragment to which it will be applied (even 100% of the video). The script is based on [Arieleg's script](https://github.com/Arieleg/mpv-takeSsSequence) but rewritten in Lua with a config file and the key binding changed to `ctrl+shift+t`.
 
 ## Requirements
 

@@ -32,4 +32,4 @@ local function take_screenshot_sequence()
   end
 end
 
-mp.add_key_binding('ctrl+shift+s', 'take-simple-sequence', take_screenshot_sequence)
+mp.add_key_binding('ctrl+shift+t', 'take-simple-sequence', take_screenshot_sequence)
