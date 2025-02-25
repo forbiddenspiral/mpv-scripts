@@ -7,6 +7,7 @@ This repository contains a small collection of scripts I've created from scratch
 These are the available scripts in the repository:
 
 - [simple_screenshot_sequence.lua](./simple-screenshot-sequence/README.md)
+- [better_screenshot_sequence.lua](./better-screenshot-sequence/README.md)
 
 ## Credits and Thanks
 
